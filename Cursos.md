@@ -37,6 +37,7 @@
 
 
 Pesquisa:
-![http://www.google.com][Google]
+![http://www.google.com](Google)
 ---
+Pesquisa 2:
 [Google]: http://www.google.com "Clique para pesquisar algo!"
