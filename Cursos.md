@@ -5,10 +5,10 @@
 - Word
 - Excel
 - Powepoint
-
+---
 # Formatação e Restauração
 
-
+---
 # Tipos de Linguagem de Programação:
 
 * Markdown
@@ -21,21 +21,21 @@
 * C, C++ e **C#**
 * Kotlin
 * Google Go
-
+---
 # Tipos de Frameworks:
 
 * React
 * Angular
 * Bootstrap
 * Django
-
+---
 # Softwares Úteis
 
 * Visual Studio Code
 * Git e GitHub
 * 
 
-
+---
 Pesquisa:
 ![http://www.google.com](Google)
 ---
