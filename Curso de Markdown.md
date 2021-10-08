@@ -1,6 +1,6 @@
 # Curso de Markdown do Curso em Vídeo:
 
-<h1>Texto1<h1>
+<h1>Texto1
 Teste de texto em *markdown*, uma forma de escrita mais __fácil__ para a programação.
 
 Lista numerada:
