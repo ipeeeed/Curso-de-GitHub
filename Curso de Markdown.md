@@ -21,3 +21,11 @@ Lista de tarefas:
 - [x] Tarefas
 - [] Exercícios
 - [] Descanso
+
+Tabelas:
+Número | Nome | Nota
+---|---|---
+1 | Pedro | 9,5
+2 | José | 10,0
+3 | Gustavo | 8,0
+4 | Maria | 8,5
