@@ -1,28 +1,27 @@
 # Curso de Markdown do Curso em Vídeo:
 
-<h1>Texto1
 Teste de texto em *markdown*, uma forma de escrita mais __fácil__ para a programação.
 
-Lista numerada:
+## Lista numerada:
 1. teste
 2. teste2
 3. teste3
 4. teste4
 
-Lista demarcada:
+## Lista demarcada:
 * teste
 * teste
  * teste
   * teste
    * teste
 
-Lista de tarefas:
+## Lista de tarefas:
 - [x] Aula
 - [x] Tarefas
-- [] Exercícios
-- [] Descanso
+- [ ] Exercícios
+- [ ] Descanso
 
-Tabelas:
+## Tabelas:
 Número | Nome | Nota
 ---|---|---
 1 | Pedro | 9,5
@@ -30,8 +29,7 @@ Número | Nome | Nota
 3 | Gustavo | 8,0
 4 | Maria | 8,5
 
-Comandos:
-
+## Comandos:
 Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
 
 Olha meu comando Python:
@@ -45,3 +43,7 @@ else:
 )
 
 ```
+
+## Emojis
+Olá senhores :vulcan_salute :hand
+
