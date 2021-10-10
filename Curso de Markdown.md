@@ -29,3 +29,19 @@ Número | Nome | Nota
 2 | José | 10,0
 3 | Gustavo | 8,0
 4 | Maria | 8,5
+
+Comandos:
+
+Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
+
+Olha meu comando Python:
+```
+
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor [num] é IMPAR')
+)
+
+```
